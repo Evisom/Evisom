@@ -1,5 +1,5 @@
 # Dmitriy Shishmintsev
-##### Looking for a job right now!
+
 ##### Skills:
 - JavaScript
 - React, redux
